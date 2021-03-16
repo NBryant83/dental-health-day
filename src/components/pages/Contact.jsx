@@ -5,9 +5,7 @@ const Contact = () => (
     <br />
     <p>frontdesk@dentistoffice.com</p>
     <br />
-    <p>1 (800) MY-TEETH</p> 
-    <br />
-    <p>1 (800) 698-3384</p>
+    <p>1 (800) MY-TEETH, 1 (800) 698-3384</p>     
     <br />
     <p>123 Main Street Dental Town, USA 99555</p>
   </div>
